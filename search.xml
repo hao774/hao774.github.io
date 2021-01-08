@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>javascript</title>
+    <url>/2021/01/06/javascript/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>-导航 -分享</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>余笙</title>
     <url>/2021/01/06/%E4%BD%99%E7%AC%99/</url>
     <content><![CDATA[<h1 id="珍惜｜｜放弃"><a href="#珍惜｜｜放弃" class="headerlink" title="珍惜｜｜放弃"></a>珍惜｜｜放弃</h1><p>在生活中，或许我们都在犯着同一个错误，这个错误就是：在拥有时不知道珍惜，直到失去了才懂得珍惜。覆水难收，后悔莫及，阳光雨露，鸟语花香，对每一个人都公平给予;欢乐喜悦，烦恼忧伤，却属于个别人私有。生命，总是美丽的，不是苦恼太多，只是我们不懂生活;不是幸福太少，只是我们不懂把握。为什么人总等到失去后才懂得珍惜，而当后悔时又往往无法再回头呢?难道人就不能从此让后悔这两个字消失于世上吗?难道就一定要等到失去后才懂得珍惜吗?</p>
@@ -858,16 +869,5 @@
 </li>
 </ul>
 <h2 id="css3线性渐变"><a href="#css3线性渐变" class="headerlink" title="css3线性渐变"></a>css3线性渐变</h2><figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-tag">background-image</span><span class="selector-pseudo">:linear-gradient(to</span> <span class="selector-tag">top</span>,<span class="selector-tag">red</span>,<span class="selector-tag">green</span>);</span><br></pre></td></tr></table></figure>]]></content>
-  </entry>
-  <entry>
-    <title>javascript</title>
-    <url>/2021/01/06/javascript/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>前端</category>
-      </categories>
-      <tags>
-        <tag>-导航 -分享</tag>
-      </tags>
   </entry>
 </search>
