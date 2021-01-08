@@ -1952,7 +1952,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #be2ac4;
+  background: #dff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3248,5 +3248,70 @@ pre .javascript .function {
   }
   .pagination {
     margin: 8px 0 0;
+  }
+}
+.words {
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+  fill: none;
+  stroke-width: 3px;
+  stroke-dasharray: 35, 125;
+  animation-name: drawing;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+.words-1 {
+  stroke: #00bfff;
+  text-shadow: 0 0 15px #00bfff;
+  animation-delay: -1.5s;
+}
+.words-2 {
+  stroke: #20b2aa;
+  text-shadow: 0 0 15px #20b2aa;
+  animation-delay: -3s;
+}
+.words-3 {
+  stroke: #ffa500;
+  text-shadow: 0 0 15px #ffa500;
+  animation-delay: -4.5s;
+}
+.words-4 {
+  stroke: #800080;
+  text-shadow: 0 0 15px #800080;
+  animation-delay: -6s;
+}
+body {
+  background: url("https://source.unsplash.com/random/1920x1080");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+}
+.main-inner {
+  margin-top: 60px;
+  padding: 60px 60px 60px 60px;
+  background: #fff;
+  opacity: 0.8;
+  min-height: 500px;
+}
+@-moz-keyframes drawing {
+  100% {
+    stroke-dashoffset: -160;
+  }
+}
+@-webkit-keyframes drawing {
+  100% {
+    stroke-dashoffset: -160;
+  }
+}
+@-o-keyframes drawing {
+  100% {
+    stroke-dashoffset: -160;
+  }
+}
+@keyframes drawing {
+  100% {
+    stroke-dashoffset: -160;
   }
 }
