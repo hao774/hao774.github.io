@@ -12,6 +12,17 @@
 ]]></content>
   </entry>
   <entry>
+    <title>javascript</title>
+    <url>/2021/01/06/javascript/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>-导航 -分享</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>HTML＋CSS</title>
     <url>/2021/01/06/HTML+CSS%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<h1 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h1><h3 id="html骨架结构"><a href="#html骨架结构" class="headerlink" title="html骨架结构"></a>html骨架结构</h3><figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!--声明文档类型，告诉浏览器按照哪个版本的html解析--&gt;</span></span><br><span class="line"><span class="meta">&lt;!DOCTYPE <span class="meta-keyword">html</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">html</span> <span class="attr">lang</span>=<span class="string">&#x27;en&#x27;</span>&gt;</span></span><br><span class="line"><span class="comment">&lt;!--lang=zh-CN 用于搜索引擎看的--&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line">      <span class="tag">&lt;<span class="name">meta</span> <span class="attr">charset</span>=<span class="string">&#x27;UTF-8&#x27;</span>&gt;</span></span><br><span class="line">      <span class="comment">&lt;!--元信息 不是给用户看的 给搜索引擎和浏览器看的</span></span><br><span class="line"><span class="comment">		charset 字符集</span></span><br><span class="line"><span class="comment">		unicode 万国码</span></span><br><span class="line"><span class="comment">		gb2312 中文简体</span></span><br><span class="line"><span class="comment">		big5 中文繁体</span></span><br><span class="line"><span class="comment">		GBK 中间简体和中文繁体</span></span><br><span class="line"><span class="comment">--&gt;</span></span><br><span class="line">      <span class="tag">&lt;<span class="name">title</span>&gt;</span><span class="tag">&lt;/<span class="name">title</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line">        </span><br><span class="line">    <span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure>
@@ -858,16 +869,5 @@
 </li>
 </ul>
 <h2 id="css3线性渐变"><a href="#css3线性渐变" class="headerlink" title="css3线性渐变"></a>css3线性渐变</h2><figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-tag">background-image</span><span class="selector-pseudo">:linear-gradient(to</span> <span class="selector-tag">top</span>,<span class="selector-tag">red</span>,<span class="selector-tag">green</span>);</span><br></pre></td></tr></table></figure>]]></content>
-  </entry>
-  <entry>
-    <title>javascript</title>
-    <url>/2021/01/06/javascript/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>前端</category>
-      </categories>
-      <tags>
-        <tag>-导航 -分享</tag>
-      </tags>
   </entry>
 </search>
