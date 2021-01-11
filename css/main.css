@@ -1952,7 +1952,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #1de0d1;
+  background: #ff41b4;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2984,7 +2984,7 @@ pre .javascript .function {
 }
 .sidebar-inner.affix {
   position: fixed;
-  top: 12px;
+  top: 10px;
 }
 .sidebar-inner.affix-bottom {
   position: absolute;
@@ -3118,14 +3118,14 @@ pre .javascript .function {
   border-radius: initial;
 }
 #posts > article + article .post-block {
-  margin-top: 12px;
+  margin-top: 10px;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
   border-radius: initial;
 }
 .comments {
   padding: 40px;
   margin: initial;
-  margin-top: 12px;
+  margin-top: 10px;
   background: #fff;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
   border-radius: initial;
@@ -3144,7 +3144,7 @@ pre .javascript .function {
   display: none !important;
 }
 .pagination {
-  margin: 12px 0 0;
+  margin: 10px 0 0;
   border-top: initial;
   background: #fff;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
@@ -3228,13 +3228,13 @@ pre .javascript .function {
     margin: initial;
   }
   .posts-expand .post-button {
-    margin-top: 12px;
+    margin-top: 10px;
   }
   .posts-expand img {
     padding: initial !important;
   }
   .post-block {
-    padding: 12px;
+    padding: 10px;
     min-height: auto;
     box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
     border-radius: initial;
@@ -3244,7 +3244,7 @@ pre .javascript .function {
   }
   .comments {
     margin-top: 8px;
-    padding: 0 12px;
+    padding: 0 10px;
   }
   .pagination {
     margin: 8px 0 0;
@@ -3281,19 +3281,6 @@ pre .javascript .function {
   stroke: #800080;
   text-shadow: 0 0 15px #800080;
   animation-delay: -6s;
-}
-body {
-  background: url("https://source.unsplash.com/random/1920x1080");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: 50% 50%;
-}
-.main-inner {
-  margin-top: 60px;
-  padding: 60px 60px 60px 60px;
-  background: #fff;
-  opacity: 0.8;
-  min-height: 500px;
 }
 @-moz-keyframes drawing {
   100% {
